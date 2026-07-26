@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-donut-civitai-local"
+description = "Local CivitAI LoRA metadata, library, cache, preview, and workflow-recovery tools for ComfyUI."
+version = "1.0.0"
+
+[project.urls]
+Repository = "https://github.com/DonutsDelivery/ComfyUI-DonutCivitaiLocal"
+
+[tool.comfy]
+PublisherId = "donutsdelivery"
+DisplayName = "ComfyUI-DonutCivitaiLocal"
+Icon = ""
